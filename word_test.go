@@ -3,7 +3,7 @@ package word_test
 import (
 	"testing"
 
-	"zenithar.org/word"
+	"github.com/zenithar/word"
 )
 
 func TestGoodWord(t *testing.T) {
